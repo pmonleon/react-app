@@ -1,5 +1,10 @@
 # Getting Started with Create React App
 
+# npx create-react-app react-app --template typescript
+
+React router dom version 6
+# yarn add react-router-dom@6
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
